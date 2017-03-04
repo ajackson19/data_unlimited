@@ -13,11 +13,12 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
  <script src="https://rawgit.com/jasondavies/d3-cloud/master/build/d3.layout.cloud.js"></script>
  <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
   <style>
    .navbar-default{
       background-color: #fff;
       border: none;
-      font-family:'Indie Flower', cursive;
+      font-family: 'Fjalla One', sans-serif;
     }
     #section{
       padding-top: 100px;
